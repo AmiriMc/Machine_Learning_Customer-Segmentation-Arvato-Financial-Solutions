@@ -1,4 +1,4 @@
-# Customer Segmentation Report for Arvato Financial Solutions (Report.pdf)
+# Customer Segmentation Report for Arvato Financial Solutions [a relative link](Report.pdf)
 
 ## Project Overview
 
