@@ -1,6 +1,6 @@
 # Customer-Segmentation-Report-for-Arvato-Financial-Solutions
 
-##Project Overview
+## Project Overview
 
 The objective of this project is to analyze demographics data of customers of a mail-order sales company in
 Germany that sells organic products and compare that to demographics data of the general population of
@@ -15,20 +15,20 @@ This project was provided by Udacity in cooperation with Arvato Financial Servic
 can be found on GitHub at: https://github.com/AmiriMc. However, the datasets provided for this project,
 courtesy of Arvato Financial Services, are private and cannot be made public.
 
-Completion of this capstone project includes four parts:
+**Completion of this capstone project includes four parts:**
 1. Create a customer segmentation report for Arvato Financial Solutions.
 2. Create a supervised learning model and verify this prediction model with training data.
 3. Submit the prediction model to the “Udacity+Arvato: Identify Customer Segments” Kaggle competition for
 testing here.
 4. Create a report detailing my analysis and results.
 
-##Domain Background
+## Domain Background
 Arvato Bertelsmann Financial Solutions is an IT service management company headquartered in Baden-Baden,
 Germany that specializes in optimizing the financial backbone of businesses and provides professional B2B
 (business-to-business) financial services. Arvato provides expertise in automation and data analytics that provide
 a comprehensive overview of an entire business and the business’s client’s journey.
 
-##Problem Statement
+## Problem Statement
 Arvato Financial Solutions wants their client to be able to analyze attributes to identify payment behavior, predict
 payment behavior, recommend credit scores and calculate credit scores of their clients. This will allow Arvato’s
 client to more efficiently target the right type of clients for their organic mail order catalog. This appears to be a
@@ -41,7 +41,7 @@ catalog?
 *Arvato’s client will be using resultant datapoints to improve decisions and show rational behind decisions.
 *Arvato wants their client to use and request reports more often.
 
-##Datasets (These datasets are private and are under NDA with Arvato Financial solutions; thus, they have not been provided.
+## Datasets (These datasets are private and are under NDA with Arvato Financial solutions; thus, they have not been provided.
 There are four data files connected with this project:
 *Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons
 (rows) x 366 features (columns).
