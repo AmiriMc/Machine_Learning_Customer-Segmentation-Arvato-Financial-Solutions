@@ -1,4 +1,4 @@
-# Customer-Segmentation-Report-for-Arvato-Financial-Solutions
+# Customer Segmentation Report for Arvato Financial Solutions
 
 ## Project Overview
 
@@ -41,8 +41,8 @@ catalog?
 *Arvato’s client will be using resultant datapoints to improve decisions and show rational behind decisions.
 *Arvato wants their client to use and request reports more often.
 
-## Datasets (These datasets are private and are under NDA with Arvato Financial solutions; thus, they have not been provided.
-There are four data files connected with this project:
+## Datasets
+**There are four data files connected with this project:**
 *Udacity_AZDIAS_052018.csv: Demographics data for the general population of Germany; 891 211 persons
 (rows) x 366 features (columns).
 *Udacity_CUSTOMERS_052018.csv: Demographics data for CUSTOMERS of a mail-order company; 191 652
@@ -58,7 +58,7 @@ information about the columns (features) depicted in the data files. The file na
 such as descriptions of attributes and a detailed mapping of data values for each feature and in alphabetical
 order, about the columns in the primary data files.
 
-##Evaluation Metrics
+## Evaluation Metrics
 The prediction model predicted which people are most likely to respond to the advertising that they will receive
 through the mail. In addition to evaluating this model with training data, this prediction model was also submitted
 to the “Udacity+Arvato: Identify Customer Segments” Kaggle competition. The evaluation metric that Kaggle uses
@@ -68,7 +68,3 @@ The LGBMRegressor classifier was used for the final score. My top Kaggle score w
 be viewed at the link: https://www.kaggle.com/c/udacity-arvato-identify-CUSTOMERS/leaderboard.
 
 This capstone project was completed as part of Udacity's Machine Learning Engineer nanodegree program.
-
-
-   
-   
