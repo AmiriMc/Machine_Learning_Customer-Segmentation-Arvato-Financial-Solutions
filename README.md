@@ -13,7 +13,7 @@ individual of the general population will become a customer. The dataset was pro
 Bertelsmann Arvato Analytics and represents a real-life data science task.
 This project was provided by Udacity in cooperation with Arvato Financial Services. The final Jupyter Notebook
 can be found on GitHub at: https://github.com/AmiriMc. However, the datasets provided for this project,
-courtesy of Arvato Financial Services, are private and cannot be made public.
+courtesy of Arvato Financial Solutions, are private and cannot be made public.
 
 **Completion of this capstone project includes four parts:**
 1. Create a customer segmentation report for Arvato Financial Solutions.
@@ -58,7 +58,7 @@ information about the columns (features) depicted in the data files. The file na
 such as descriptions of attributes and a detailed mapping of data values for each feature and in alphabetical
 order, about the columns in the primary data files.
 
-The datasets provided for this project, courtesy of Arvato Financial Services, are private and cannot be made public.
+The datasets provided for this project, courtesy of Arvato Financial Solutions, are private and cannot be made public.
 
 ## Evaluation Metrics
 The prediction model predicted which people are most likely to respond to the advertising that they will receive
