@@ -12,7 +12,7 @@ company. A supervised learning prediction model will be developed to predict the
 individual of the general population will become a customer. The dataset was provided by a real business -
 Bertelsmann Arvato Analytics and represents a real-life data science task.
 This project was provided by Udacity in cooperation with Arvato Financial Services. The final Jupyter Notebook
-can be found on GitHub at: https://github.com/AmiriMc. However, the datasets provided for this project,
+is titled [Arvato_Financial_Project_Amiri_McCain.ipynp](Arvato_Financial_Project_Amiri_McCain.ipynp). However, the datasets provided for this project,
 courtesy of Arvato Financial Solutions, are private and cannot be made public.
 
 **Completion of this capstone project includes four parts:**
