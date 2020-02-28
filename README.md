@@ -58,6 +58,8 @@ information about the columns (features) depicted in the data files. The file na
 such as descriptions of attributes and a detailed mapping of data values for each feature and in alphabetical
 order, about the columns in the primary data files.
 
+The datasets provided for this project, courtesy of Arvato Financial Services, are private and cannot be made public.
+
 ## Evaluation Metrics
 The prediction model predicted which people are most likely to respond to the advertising that they will receive
 through the mail. In addition to evaluating this model with training data, this prediction model was also submitted
